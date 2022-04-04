@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    tools:context=".GridLayouActivity">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_gravity="left|top"
+        android:text="A"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_gravity="left|top"
+        android:text="B"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_gravity="left|top"
+        android:text="C"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_gravity="left|top"
+        android:text="D"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_gravity="left|top"
+        android:text="E"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_gravity="left|top"
+        android:text="F"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_gravity="left|top"
+        android:text="G"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_gravity="left|top"
+        android:text="H"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_gravity="left|top"
+        android:text="I"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_gravity="left|top"
+        android:text="J"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_gravity="left|top"
+        android:text="K"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_gravity="left|top"
+        android:text="L"
+        android:horizontalSpacing="50dp"
+        android:verticalSpacing="50dp"/>
+
+</GridLayout>
